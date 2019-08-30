@@ -3,6 +3,7 @@ import Card from "react-bootstrap/Card";
 import "./PortfolioTest.css";
 import Posme from "../../images/posme.png";
 import Office from "../../images/the_office.PNG";
+import Bootcamp from "../../images/bootcamp.PNG";
 import Popup from "reactjs-popup";
 import MediaQuery from "react-responsive";
 
@@ -25,7 +26,7 @@ const Portfolio = _ => {
             <img className="right floated mini ui image" src={Posme} />
             <div className="header">Posme</div>
             <div className="meta">
-              React, React Hooks, MongoDB, Material UI, AWS S3
+              React, React Hooks, MongoDB, Material UI, Passport, AWS S3
             </div>
             <div className="description">
               POSME (Point of Sale Made Easy) is a point-of-sale system for
@@ -61,9 +62,7 @@ const Portfolio = _ => {
           <div className="content">
             <img className="right floated mini ui image" src={Office} />
             <div className="header">Where's the Office?</div>
-            <div className="meta">
-              React, Material UI, Shuffle-Array (npm),{" "}
-            </div>
+            <div className="meta">React, Material UI, Shuffle-Array (npm)</div>
             <div className="description">
               A memory game using characters from the hit television series, The
               Office. The goal of the game is to be able to click through all
@@ -97,14 +96,17 @@ const Portfolio = _ => {
         </div>
         <div id="p3_card" className="card">
           <div className="content">
-            <img
-              class="right floated mini ui image"
-              src="/images/avatar/large/jenny.jpg"
-            />
-            <div className="header">Project 3</div>
-            <div className="meta">Tech Used</div>
+            <img class="right floated mini ui image" src={Bootcamp} />
+            <div className="header">My BOOtcamp</div>
+            <div className="meta">
+              React, Express Server, MySQL, Material UI, Firebase
+            </div>
             <div className="description">
-              Jenny wants to add you to the group <b>best friends</b>
+              A dating and networking app tailored for coding bootcamp students.
+              The app matches you with others based off your tech and personal
+              interests. Additionally, there is a swipe effect implemented in
+              the app for the user to narrow down the specific individuals they
+              want to connect with.
             </div>
           </div>
           <div className="extra content">
@@ -113,7 +115,7 @@ const Portfolio = _ => {
                 <Card.Link
                   id="github_link"
                   target="_blank"
-                  href="https://github.com/kumikonomura/clicky-game.git"
+                  href="https://github.com/kumikonomura/My-BOOtcamp.git"
                 >
                   Github Repo
                 </Card.Link>

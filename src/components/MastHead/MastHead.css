@@ -28,9 +28,22 @@
   margin-right: 0;
 }
 
-.social-icons i:hover {
-  /* background-color: #BD5D38; */
-  background-color: grey;
+/* .social-icons i:hover { */
+/* background-color: #BD5D38; */
+/* background-color: grey;
+} */
+
+.fa-linkedin:hover {
+  color: grey;
+}
+.fa-github:hover {
+  color: grey;
+}
+.fa-envelope:hover {
+  color: grey;
+}
+.fa-file:hover {
+  color: grey;
 }
 
 .social-icons {
