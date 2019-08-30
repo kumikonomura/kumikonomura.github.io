@@ -1,0 +1,41 @@
+.col s12 m6 {
+  color: #333333;
+  font: 16px Roboto, sans-serif;
+  padding: 0px 11.25px;
+}
+
+.card-content {
+  color: #333333;
+  font: 16 px Roboto, sans-serif;
+  padding: 20px 20px 30px;
+}
+
+p {
+  padding: 5px 0px 0px;
+}
+
+.a teal-text.hoverline {
+  color: #008073;
+  font: 24px Roboto, sans-serif;
+  margin: 0px 20px 0px 0px;
+  padding: 3px 3px 0px;
+}
+
+.brown-text {
+  color: #333333;
+  font: 16px Roboto, sans-serif;
+  padding: 5px 0px 0px;
+}
+
+li {
+  color: #333333;
+  font: 16px Roboto, sans-serif;
+  margin: 0px 0px 0px 24px;
+}
+
+#education {
+  padding-top: 20px;
+}
+#schools {
+  padding-top: 20px;
+}
