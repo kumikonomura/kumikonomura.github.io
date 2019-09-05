@@ -15,7 +15,7 @@ const About = _ => {
 
           <div class="row">
             <div id="first_paragraph" class="col-lg-4 ml-auto">
-              <p class="lead">
+              <p id='intro' class="lead">
                 Hi everyone! My name is Kumiko Nomura. I am a recent graduate
                 from UC Irvine's Coding Bootcamp. Prior to the bootcamp, I
                 worked as a financial accountant. After two years of working

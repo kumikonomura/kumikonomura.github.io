@@ -2,6 +2,7 @@ import React from "react";
 import Jumbotron from "react-bootstrap/Jumbotron";
 import Container from "react-bootstrap/Container";
 import Dog from "../../images/what_colors_are_shiba_inu_dogs_187_600.jpg";
+import Profile from "../../images/profile_pic_2.jpg";
 import GitHub from "../../images/GitHub-Mark-32px.png";
 import "./MastHead.css";
 import MediaQuery from "react-responsive";
@@ -13,7 +14,7 @@ const MastHead = _ => {
         <header id="profile" className="masthead text-white text-center">
           <div className="container d-flex align-items-center flex-column">
             <div className="profileImage">
-              <img className="avatar" src={Dog} />
+              <img className="avatar" src={Profile} />
             </div>
 
             {/* <h1 className="masthead-heading text-uppercase mb-0">
