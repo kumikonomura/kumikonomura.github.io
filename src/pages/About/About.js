@@ -28,7 +28,7 @@ const About = _ => {
               <p class="lead">
                 I am a big believer in constant learning and growth. I enjoy
                 challenging myself in order to obtain new skills and broaden my
-                horizons. I look forward to working with a
+                horizons.
               </p>
             </div>
           </div>
