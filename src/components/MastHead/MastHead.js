@@ -37,7 +37,10 @@ const MastHead = _ => {
               <a href="mailto:knomurap@gmail.com">
                 <i className="fa fa-envelope" />
               </a>
-              <a href="resume">
+              <a
+                target="_blank"
+                href="https://drive.google.com/file/d/0B4WTvF32jt9OejdRX0tKbGZyWlJNQTQ3ZW5YTEdIOFk5bTNJ/view?usp=sharing"
+              >
                 <i className="fa fa-file" />
               </a>
             </div>
