@@ -21,7 +21,7 @@ const MastHead = _ => {
               KUMIKO NOMURA
             </h1> */}
 
-            <p className="masthead-subheading font-weight-light mb-0">
+            <p id='role' className="masthead-subheading font-weight-light mb-0">
               Full-Stack Developer
             </p>
             <br />
