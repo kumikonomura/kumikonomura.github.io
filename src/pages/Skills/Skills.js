@@ -16,129 +16,15 @@ const Skills = _ => {
           </h2>
         </div>
         <div id="tools" className="container">
-          <div className="ui four column grid">
-            <div className="column">
-              <div className="card">
-                <div id="html" className="card-content">
-                  JavaScript
-                </div>
-              </div>
-            </div>
-            <div className="column">
-              <div className="card">
-                <div id="html" className="card-content">
-                  HTML
-                </div>
-              </div>
-            </div>
-            <div className="column">
-              <div className="card">
-                <div id="html" className="card-content">
-                  CSS
-                </div>
-              </div>
-            </div>
-            <div className="column">
-              <div className="card">
-                <div id="html" className="card-content">
-                  React JS
-                </div>
-              </div>
-            </div>
-          </div>
-          <div className="ui four column grid">
-            <div className="column">
-              <div className="card">
-                <div id="html" className="card-content">
-                  Node JS
-                </div>
-              </div>
-            </div>
-            <div className="column">
-              <div className="card">
-                <div id="html" className="card-content">
-                  Material UI
-                </div>
-              </div>
-            </div>
-            <div className="column">
-              <div className="card">
-                <div id="html" className="card-content">
-                  Bootstrap
-                </div>
-              </div>
-            </div>
-            <div className="column">
-              <div className="card">
-                <div id="html" className="card-content">
-                  GitHub
-                </div>
-              </div>
-            </div>
-          </div>
+          <div className="card">JavaScript</div>
+          <div className="card">HTML</div>
+          <div className="card">CSS</div>
+          <div className="card">React JS</div>
+        <div className="card">Node JS</div>
+        <div className="card">Material UI</div>
+        <div className="card">Bootstrap</div>
+        <div className="card">GitHub</div>
         </div>
-        {/* <div id="tools" className="container">
-            <div className="row align-items-center">
-              <div className="col">
-                <div id="cards" className="card">
-                  <div id="javascript" className="card-content">
-                    Javascript
-                  </div>
-                </div>
-              </div>
-              <div className="col">
-                <div className="card">
-                  <div id="html" className="card-content">
-                    HTML
-                  </div>
-                </div>
-              </div>
-              <div className="col">
-                <div className="card">
-                  <div id="css" className="card-content">
-                    CSS
-                  </div>
-                </div>
-              </div>
-              <div className="col">
-                <div className="card">
-                  <div id="reactjs" className="card-content">
-                    React JS
-                  </div>
-                </div>
-              </div>
-            </div>
-            <div className="row">
-              <div className="col">
-                <div className="card">
-                  <div id="nodejs" className="card-content">
-                    Node JS
-                  </div>
-                </div>
-              </div>
-              <div className="col">
-                <div className="card">
-                  <div id="materialui" className="card-content">
-                    Material UI
-                  </div>
-                </div>
-              </div>
-              <div className="col">
-                <div className="card">
-                  <div id="bootstrap" className="card-content">
-                    Bootstrap
-                  </div>
-                </div>
-              </div>
-              <div className="col">
-                <div className="card">
-                  <div id="visualstudio" className="card-content">
-                    VS Code
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div> */}
       </section>
     </>
   );
