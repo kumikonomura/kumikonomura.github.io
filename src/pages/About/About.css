@@ -4,9 +4,9 @@
 #about_me {
   color: #00c7c7;
 }
-#first_paragraph {
+#first {
   padding-bottom: 8px;
-}
-#second_paragraph {
-  padding-bottom: 8px;
+  padding-top: 0px;
+  justify-content: center;
+  text-align: center;
 }
