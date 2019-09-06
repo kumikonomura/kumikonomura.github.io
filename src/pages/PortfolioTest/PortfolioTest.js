@@ -4,8 +4,6 @@ import "./PortfolioTest.css";
 import Posme from "../../images/posme.png";
 import Office from "../../images/the_office.PNG";
 import Bootcamp from "../../images/bootcamp.PNG";
-import Popup from "reactjs-popup";
-import MediaQuery from "react-responsive";
 
 const Portfolio = _ => {
   return (
