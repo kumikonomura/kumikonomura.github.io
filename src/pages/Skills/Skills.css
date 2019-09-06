@@ -3,12 +3,13 @@
   padding-bottom: 40px;
   background-color: #ededed;
 }
-#tools {
+.container {
   display: flex;
   justify-content: center;
   flex-wrap: wrap;
 }
 .card {
+  flex: 1 0 21%;
   background-color: #2c393f;
   color: white;
   padding-bottom: 5px;
@@ -23,7 +24,7 @@
   transition: all 0.25s ease-in-out;
 }
 .card:hover {
-  background-color: red;
+  background-color: #00c7c7;
   position: relative;
   transform: translateY(-6px);
   box-shadow: 0 5px 10px 0 #3d3d3d;

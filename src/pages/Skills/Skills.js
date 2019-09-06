@@ -16,14 +16,30 @@ const Skills = _ => {
           </h2>
         </div>
         <div id="tools" className="container">
-          <div className="card">JavaScript</div>
-          <div className="card">HTML</div>
-          <div className="card">CSS</div>
-          <div className="card">React JS</div>
-        <div className="card">Node JS</div>
-        <div className="card">Material UI</div>
-        <div className="card">Bootstrap</div>
-        <div className="card">GitHub</div>
+          <div id="card_style" className="card">
+            JavaScript
+          </div>
+          <div id="card_style" className="card">
+            HTML
+          </div>
+          <div id="card_style" className="card">
+            CSS
+          </div>
+          <div id="card_style" className="card">
+            React JS
+          </div>
+          <div id="card_style" className="card">
+            Node JS
+          </div>
+          <div id="card_style" className="card">
+            Material UI
+          </div>
+          <div id="card_style" className="card">
+            Bootstrap
+          </div>
+          <div id="card_style" className="card">
+            GitHub
+          </div>
         </div>
       </section>
     </>
