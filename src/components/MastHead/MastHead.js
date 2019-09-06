@@ -10,7 +10,7 @@ import MediaQuery from "react-responsive";
 const MastHead = _ => {
   return (
     <>
-      <MediaQuery query="(max-width: 1455px)">
+      <MediaQuery query="(max-width: 1824px)">
         <header id="profile" className="masthead text-white text-center">
           <div className="container d-flex align-items-center flex-column">
             <div className="profileImage">
