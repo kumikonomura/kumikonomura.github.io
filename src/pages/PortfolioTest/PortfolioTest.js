@@ -1,7 +1,7 @@
 import React from "react";
 import Card from "react-bootstrap/Card";
 import "./PortfolioTest.css";
-import Posme from "../../images/posme.png";
+import Sbtb from "../../images/sbtb.PNG";
 import Office from "../../images/the_office.PNG";
 import Bootcamp from "../../images/bootcamp.PNG";
 
@@ -21,16 +21,12 @@ const Portfolio = _ => {
       <div id="portfolio_card" className="ui three stackable cards">
         <div id="posme_card" className="card">
           <div className="content">
-            <img className="right floated mini ui image" src={Posme} />
-            <div className="header">Posme</div>
-            <div className="meta">
-              React, React Hooks, MongoDB, Material UI, Passport, AWS S3
-            </div>
+            <img className="right floated mini ui image" src={Sbtb} />
+            <div className="header">Saved by The Bell: Trivia</div>
+            <div className="meta">React JS, Semantic UI</div>
             <div className="description">
-              POSME (Point of Sale Made Easy) is a point-of-sale system for
-              small businesses to use in their daily operations. It makes
-              transactions efficient and simple while also tracking data such as
-              sales and inventory.
+              A fun trivia game based on the 90's show, Saved by The Bell. Try
+              and see how many questions you get can right!
             </div>
           </div>
           <div className="extra content">
@@ -39,7 +35,7 @@ const Portfolio = _ => {
                 <Card.Link
                   id="github_link"
                   target="_blank"
-                  href="https://github.com/kumikonomura/posme.git"
+                  href="https://github.com/kumikonomura/sbtb-trivia.git"
                 >
                   Github Repo
                 </Card.Link>
@@ -48,7 +44,7 @@ const Portfolio = _ => {
                 <Card.Link
                   id="deployed_link"
                   target="_blank"
-                  href="https://morning-hamlet-37219.herokuapp.com/"
+                  href="https://safe-fortress-12935.herokuapp.com/"
                 >
                   Deployed Site
                 </Card.Link>
@@ -122,7 +118,7 @@ const Portfolio = _ => {
                 <Card.Link
                   id="deployed_link"
                   target="_blank"
-                  href="https://stark-badlands-11638.herokuapp.com/"
+                  href="https://github.com/kumikonomura/My-BOOtcamp.git"
                 >
                   Deployed Site
                 </Card.Link>
