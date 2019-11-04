@@ -1,9 +1,5 @@
 import React from "react";
-import Jumbotron from "react-bootstrap/Jumbotron";
-import Container from "react-bootstrap/Container";
-import Dog from "../../images/what_colors_are_shiba_inu_dogs_187_600.jpg";
 import Profile from "../../images/profile_pic_2.jpg";
-import GitHub from "../../images/GitHub-Mark-32px.png";
 import "./MastHead.css";
 import MediaQuery from "react-responsive";
 
