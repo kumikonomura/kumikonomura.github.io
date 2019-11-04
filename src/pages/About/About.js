@@ -16,13 +16,7 @@ const About = _ => {
           <div className="row">
             <div id="first_paragraph" class="container">
               <p id='first' className="lead">
-                Hi everyone! My name is Kumiko Nomura. I am a recent graduate
-                from UC Irvine's Coding Bootcamp. Prior to the bootcamp, I
-                worked as a financial accountant. After two years of working
-                with financial statements and ledgers, I finally decided it was
-                time to take a leap of faith and pursue what I've always been
-                interested in, software development. 
-                I am a big believer in constant learning and growth. I enjoy challenging myself in order to obtain new skills and broaden my horizons.
+                Hi everyone! My name is Kumiko Nomura. I come from an accounting background but tech has been calling my name from a young age. After working as a financial accountant for two years, I finally decided to take a leap of faith and pursue software development. I enrolled in a coding bootcamp and my love and interest for coding started there. I am a big believer in constant learning and growth. I enjoy challenging myself in order to obtain new skills and broaden my horizons.  
               </p>
               </div>
             </div>

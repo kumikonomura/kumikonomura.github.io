@@ -25,8 +25,7 @@ const Portfolio = _ => {
             <div className="header">Saved by The Bell: Trivia</div>
             <div className="meta">React JS, Semantic UI</div>
             <div className="description">
-              A fun trivia game based on the 90's show, Saved by The Bell. Try
-              and see how many questions you get can right!
+              A fun trivia game based on the 90's show, Saved by The Bell.
             </div>
           </div>
           <div className="extra content">
